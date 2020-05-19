@@ -1,3 +1,3 @@
 The links are:
-- http://www.castellanidavide.it/another/castellani_davide_hostdns_01_04/htdocs/index.html
-- http://castellanidavide.surge.sh/
+- https://www.castellanidavide.it/other.html (Probably will change soon)
+- https://castellanidavide.surge.sh/
